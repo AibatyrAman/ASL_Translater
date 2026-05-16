@@ -26,8 +26,8 @@ Bu proje, işitme engelli bireyler için tasarlanmış gerçek zamanlı bir İş
 ## 🛠️ Kurulum ve Kullanım
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/ASL-Neural-Translator.git
-cd ASL-Neural-Translator
+git clone https://github.com/AibatyrAman/ASL_Translater.git
+cd ASL_Translater
 python3 -m venv venv
 source venv/bin/activate  # Windows için: .\venv\Scripts\activate
 pip install -r requirements.txt
